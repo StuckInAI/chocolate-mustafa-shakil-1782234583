@@ -1,5 +1,5 @@
 ---
-status: building
+status: implemented
 title: Chocolate Hub Business Website
 ---
 
