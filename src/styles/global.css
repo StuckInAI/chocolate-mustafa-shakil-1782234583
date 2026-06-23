@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-choc-dark: #3b1f0e;
+  --color-choc-mid: #6b3a2a;
+  --color-choc-light: #a0522d;
+  --color-cream: #fdf6ee;
+  --color-gold: #c9922a;
+  --color-gold-light: #e8b84b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
